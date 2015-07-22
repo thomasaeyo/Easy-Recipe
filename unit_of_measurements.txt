@@ -1,0 +1,56 @@
+teaspoon
+t
+tsp
+tablespoon
+T
+tbl
+tbs
+tbsp
+fluid ounce
+fl oz
+gill
+cup
+c
+pint
+p
+pt
+fl pt
+quart
+q
+qt
+fl qt
+gallon
+g
+gal
+milliliter
+millilitre
+ml
+cc
+liter
+litre
+l
+deciliter
+decilitre
+dl
+pound
+lb
+#
+ounce
+oz
+milligram
+milligramme
+mg
+gram
+gramme
+g
+kilogram
+kilogramme
+kg
+millimeter
+millimetre
+mm
+meter
+metre
+m
+inch
+in

@@ -1,0 +1,12 @@
+banchan
+soups
+stews
+kimchi
+rice
+mitbanchan
+noodles
+pancakes
+porridge
+bbq
+ricecake
+easy
